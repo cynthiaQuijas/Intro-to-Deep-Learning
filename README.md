@@ -1,4 +1,4 @@
 # Intro to Deep Learning
 Carlos Palmieri
 
-Cynthia Quijas
+Cynthia Quijas - A01655996
