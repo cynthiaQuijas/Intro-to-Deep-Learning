@@ -1,2 +1,3 @@
-# Intro-to-Deep-Learning
-Carlos Palmieri, Cynthia Quijas
+# Intro to Deep Learning
+Carlos Palmieri
+Cynthia Quijas
